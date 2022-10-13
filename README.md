@@ -19,11 +19,14 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/NRS2.PNG)
 
   •	Precision
-    o	High risk – 0.01
-    o	Low risk – 1.00
-  •	Recall
-    o	High risk - 0.62
-    o	Low risk - .65
+  
+  High risk – 0.01
+  Low risk – 1.00
+  
+  Recall
+  
+  High risk - 0.62
+  Low risk - .65
 
 #### SMOTE Oversampling
 
