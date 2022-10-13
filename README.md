@@ -33,13 +33,12 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/SMOTE2.PNG) 
 
-  •	Precision
-    o	High risk – 0.01
-    o	Low risk – 1.00
+  •	Precisiom
+      High risk – 0.01
+      Low risk – 1.00
   •	Recall
-    o	High risk - 0.62
-    o	Low risk - .64
-
+      High risk - 0.62
+      Low risk - 0.64
 
 #### Undersampling
 
