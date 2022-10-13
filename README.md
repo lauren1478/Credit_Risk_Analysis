@@ -23,7 +23,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
   High risk – 0.01
   Low risk – 1.00
   
-  Recall
+  • Recall
   
   High risk - 0.62
   Low risk - .65
