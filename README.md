@@ -86,6 +86,5 @@ evaluate the performance of these models and make a written recommendation on wh
 - Recall: Low risk – 0.94
 
 ## Summary:
-There is a summary of the results (2 pt)
+I recommend using the Balanced Random Forest Classifer model or the Easy Ensenble AdaBoost Classifier model as they produced the highest accuracy scores.
 
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
