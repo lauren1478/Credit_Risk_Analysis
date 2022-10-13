@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-## Overview of the loan prediction risk analysis:
+## Overview:
 
 The purpose of this analysis was to use various machine learning models performance to determine the best model to predict credit risk. Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, you’ll need to employ different techniques to train and evaluate models with unbalanced classes.
 evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
