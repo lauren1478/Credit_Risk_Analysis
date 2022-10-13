@@ -20,6 +20,7 @@ evaluate the performance of these models and make a written recommendation on wh
   - Recall: High risk - 0.62
   - Recall: Low risk - 0.65
 
+
 ### SMOTE Oversampling
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/SMOTE1.PNG) 
@@ -32,6 +33,7 @@ evaluate the performance of these models and make a written recommendation on wh
 - Precision: Low risk – 1.00
 - Recall: High risk - 0.62
 - Recall: Low risk - 0.64
+
 
 ### Undersampling
 
@@ -46,6 +48,7 @@ evaluate the performance of these models and make a written recommendation on wh
 - Recall: High risk - 0.59
 - Recall: Low risk - 0.43
 
+
 ### Combination (Over and Under) Sampling
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/overandunder1.PNG)
@@ -58,6 +61,7 @@ evaluate the performance of these models and make a written recommendation on wh
 - Precision: Low risk – 1.00
 - Recall: High risk - 0.71
 - Recall: Low risk – 0.59
+
 
 ### Balanced Random Forest Classifier
 
@@ -72,6 +76,7 @@ evaluate the performance of these models and make a written recommendation on wh
 - Recall: High risk - 0.70
 - Recall: Low risk – 0.87
 
+
 ### Easy Ensemble AdaBoost Classifer
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/Easy1.PNG)
@@ -84,6 +89,7 @@ evaluate the performance of these models and make a written recommendation on wh
 - Precision: Low risk – 1.00
 - Recall: High risk - 0.92
 - Recall: Low risk – 0.94
+
 
 ## Summary:
 I recommend using the Balanced Random Forest Classifer model or the Easy Ensenble AdaBoost Classifier model as they produced the highest accuracy scores.
