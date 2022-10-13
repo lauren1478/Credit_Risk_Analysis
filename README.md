@@ -7,7 +7,7 @@ evaluate the performance of these models and make a written recommendation on wh
 
 ## Results:
 
-#### Naïve Random Oversampling
+### Naïve Random Oversampling
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/NRS1.PNG)
 
@@ -20,70 +20,70 @@ evaluate the performance of these models and make a written recommendation on wh
   - Recall: High risk - 0.62
   - Recall: Low risk - 0.65
 
-#### SMOTE Oversampling
+### SMOTE Oversampling
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/SMOTE1.PNG) 
 
-	- Balanced Accuracy Score: 0.63
+- Balanced Accuracy Score: 0.63
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/SMOTE2.PNG) 
 	
-	- Precision: High risk – 0.01
-	- Precision: Low risk – 1.00
-	- Recall: High risk - 0.62
-	- Low risk - 0.64
+- Precision: High risk – 0.01
+- Precision: Low risk – 1.00
+- Recall: High risk - 0.62
+- Recall: Low risk - 0.64
 
-#### Undersampling
+### Undersampling
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/Over1.PNG)  
 
-	- Balanced Accuracy Score: 0.51
+- Balanced Accuracy Score: 0.51
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/over2.PNG) 
 
-	- Precision: High risk – 0.01
-	- Precision: Low risk – 1.00
-	- Recall: High risk - 0.59
-	- Recall: Low risk - 0.43
+- Precision: High risk – 0.01
+- Precision: Low risk – 1.00
+- Recall: High risk - 0.59
+- Recall: Low risk - 0.43
 
-#### Combination (Over and Under) Sampling
+### Combination (Over and Under) Sampling
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/overandunder1.PNG)
 
-	-	Balanced Accuracy Score: 0.65
+- Balanced Accuracy Score: 0.65
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/overandunder2.PNG) 
 
-	- Precision: High risk – 0.01
-	- Precision: Low risk – 1.00
-  - Recall: High risk - 0.71
-  - Recall: Low risk – 0.59
+- Precision: High risk – 0.01
+- Precision: Low risk – 1.00
+- Recall: High risk - 0.71
+- Recall: Low risk – 0.59
 
-#### Balanced Random Forest Classifier
+### Balanced Random Forest Classifier
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/RFM1.PNG)
   
-	- Balanced Accuracy Score: 0.79
+- Balanced Accuracy Score: 0.79
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/RFM2.PNG) 
 
-  - Precision: High risk – 0.03
-  - Precision: Low risk – 1.00
-  - Recall: High risk - 0.70
-  - Recall: Low risk – 0.87
+- Precision: High risk – 0.03
+- Precision: Low risk – 1.00
+- Recall: High risk - 0.70
+- Recall: Low risk – 0.87
 
-#### Easy Ensemble AdaBoost Classifer
+### Easy Ensemble AdaBoost Classifer
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/Easy1.PNG)
 
-	- Balanced Accuracy Score: 0.93
+- Balanced Accuracy Score: 0.93
 
 ![Alt Text](https://github.com/lauren1478/Credit_Risk_Analysis/blob/main/PNGs/Easy2.PNG) 
 
-  - Precision: High risk – 0.09
-  - Precision: Low risk – 1.00
-  - Recall: High risk - 0.92
-  - Recall: Low risk – 0.94
+- Precision: High risk – 0.09
+- Precision: Low risk – 1.00
+- Recall: High risk - 0.92
+- Recall: Low risk – 0.94
 
 ## Summary:
 There is a summary of the results (2 pt)
